@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "d056",
+      "name": "samuel",
+      "lastName": "quintero",
+      "email": "samu@correo.com",
+      "userName": "samu1",
+      "password": "contraseña"
+    }
+  ],
+  "notes" : []
+}

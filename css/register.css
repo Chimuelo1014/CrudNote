@@ -1,0 +1,21 @@
+
+    .form-control {
+      height: 50px;
+      font-weight: 500;
+      border-width: 1.8px;
+    }
+
+    .btn-custom {
+      background-color: #3b82f6;
+      border: none;
+      height: 50px;
+      font-weight: 600;
+    }
+
+    .form-label {
+      font-weight: 600;
+    }
+
+    .img-fluid {
+      max-height: 350px;
+    }
