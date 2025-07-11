@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const user = users[0];
         sessionStorage.setItem("auth", "true");
         sessionStorage.setItem("usuario", JSON.stringify(user));
-        window.location = "../home.html";
+        window.location = "../home/home.html";
       } else {
         alert("Usuario o contraseña incorrectos.");
       }

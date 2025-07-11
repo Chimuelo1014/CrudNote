@@ -1,5 +1,11 @@
+document.addEventListener("DOMContentLoaded", () => {
+const API_URL = "http://localhost:3000/";
+});
+
+
+
 // document.addEventListener("DOMContentLoaded", () => {
-//   const API_URL = "http://localhost:3000";
+//   
 //   const user = JSON.parse(sessionStorage.getItem("usuario"));
 //   const welcomeEl = document.querySelector("h2"); // usa <h2 class="fw-bold mb-3">
 //   const myNotesContainer = document.querySelector(".row.g-3.mb-5");

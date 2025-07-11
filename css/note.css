@@ -26,6 +26,11 @@ textarea {
 .avatar {
   width: 36px;
   height: 36px;
-  border-radius: 50%;
+  border-radius: 50%;   
   object-fit: cover;
+}
+
+a{
+  text-decoration: none;
+  color :rgb(19, 19, 19);
 }

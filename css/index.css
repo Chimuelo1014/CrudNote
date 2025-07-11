@@ -19,18 +19,25 @@
       font-weight: 500;
       margin: 0 0.5rem;
     }
-
+    .btn-style{
+      padding: 10px 20px !important; 
+    }
     .btn-primary {
       background-color: #2563eb;
       border: none;
       font-weight: 600;
+      border-radius: 2rem;
+      padding: 15px 16px;
+      
     }
 
     .btn-light {
       background-color: #f3f4f6;
       font-weight: 600;
+      border-radius: 2rem;
+      padding: 15px 16px;
     }
-
+    
     .hero-img {
       max-width: 100%;
       border-radius: 1rem;
@@ -66,8 +73,9 @@
     footer {
       padding: 2rem 0 1rem;
       text-align: center;
-      font-size: 0.875rem;
+      font-size: 1.1rem;
       color: #6b7280;
+      margin-bottom: 20px;
     }
 
     footer a {
@@ -76,3 +84,9 @@
       margin: 0 1rem;
     }
  
+    .linksitos{
+      display: flex;
+      justify-content: center;
+      margin-bottom: 30px;
+      column-gap: 200px ;
+    }

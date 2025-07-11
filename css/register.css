@@ -1,21 +1,36 @@
+.form-control {
+  height: 50px;
+  font-weight: 500;
+  border-width: 1.8px;
+}
 
-    .form-control {
-      height: 50px;
-      font-weight: 500;
-      border-width: 1.8px;
-    }
+.btn-custom {
+  background-color: #3b82f6;
+  border: none;
+  height: 50px;
+  font-weight: 600;
+}
 
-    .btn-custom {
-      background-color: #3b82f6;
-      border: none;
-      height: 50px;
-      font-weight: 600;
-    }
+.form-label {
+  font-weight: 600;
+}
 
-    .form-label {
-      font-weight: 600;
-    }
+.img-fluid {
+  max-height: 350px;
+}
+.container{
+  margin-top: 50px;
+}
+.navbar {
+  padding: 1rem 2rem;
+}
 
-    .img-fluid {
-      max-height: 350px;
-    }
+.navbar-brand {
+  font-weight: 600;
+}
+
+.nav-link {
+  color: #000 !important;
+  font-weight: 500;
+  margin: 0 0.5rem;
+}
